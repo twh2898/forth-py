@@ -15,4 +15,4 @@ Hello World ok
 
 ## Licence
 
-forth-py uses the (MIT)[LICENCE] licence
+forth-py uses the [MIT](LICENCE) licence
